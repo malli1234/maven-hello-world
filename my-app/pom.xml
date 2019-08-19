@@ -4,7 +4,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>war</packaging>
-  <version>login-SNAPSHOT</version>
+  <version>remote-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 
